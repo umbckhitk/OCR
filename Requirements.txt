@@ -1,10 +1,10 @@
- cv2
- numpy 
- imutils
- pytesseract
- tkinter 
- requests 
- PyPDF2
- joblib
- json
- flask
+cv2
+numpy
+imutils
+pytesseract
+tkinter
+requests
+PyPDF2
+joblib
+json
+flask
